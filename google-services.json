@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939102585790",
+    "project_id": "medapteka-9969f",
+    "storage_bucket": "medapteka-9969f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939102585790:android:eb480b7dba1b78bd436fef",
+        "android_client_info": {
+          "package_name": "com.ZedCom.ZedMed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu2aOh3sVjClYIEG8mujtFqbQYMtmKeiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
